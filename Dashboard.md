@@ -17,5 +17,5 @@ Rendimento médio mensal efetivo de todos os trabalhos.
 Os dados são apresentados com segmentação por gênero, proporcionando uma visão detalhada da posição das mulheres no mercado de trabalho amazonense.
 <p>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/53462d3f-fe65-477c-91a1-b1533abd346e">
+<img height="720" width="1280" src="https://github.com/user-attachments/assets/53462d3f-fe65-477c-91a1-b1533abd346e">
 </div>
