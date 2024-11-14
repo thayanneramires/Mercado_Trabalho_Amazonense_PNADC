@@ -1,4 +1,4 @@
-<img align="center" alt="SQL" height="400" width="1100" src="https://github.com/user-attachments/assets/0961b85c-d512-4134-a09f-439aa71d14ff">
+<img align="center" alt="Capa" height="400" width="1100" src="https://github.com/user-attachments/assets/0961b85c-d512-4134-a09f-439aa71d14ff">
 
 # O mercado de trabalho amazonense: análise da participação das mulheres de 2012 à pandemia de COVID-19
 
